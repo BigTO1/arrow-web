@@ -544,3 +544,114 @@ nav{
     color: #fff;
     text-transform: uppercase;
 }
+
+.newcolor{
+    color: #000;
+}
+.header-port{
+    background-image: url("/img/bg-port.png");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20%;
+}
+
+.creditos{
+    width: 100%;
+    background-color: rgba(0, 0, 0, .35);
+    color: #fff;
+}
+.creditos-titulo{   
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;    
+}
+.creditos-text{
+    margin:0;
+    padding: 10px 0;
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight:600 ;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.79;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}
+.creditos-tipos{
+    margin: 15rem 0;
+}
+.tipos-content{
+    background-image: url("/img/bg-card.png");
+    display: flex;
+    margin: 5rem 0;
+    
+}
+.tipo-texto{
+    max-width: 50%;
+}
+.tipos-content-r{
+    background-image: url("/img/bg-card.png");
+    display: flex;
+    flex-direction:row-reverse;
+    margin: 150px 0;
+}
+
+.tipo{  
+    font-family: "Montserrat";
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #000;
+}
+.tipo-explain{
+    max-width: 70%;
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    text-align:right;
+    color: #000;
+}
+.tipo-r{
+    font-family: "Montserrat";
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000;
+}
+.tipo-explain-r{
+    max-width: 70%;
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+
+    color: #000;
+}
+.creditos-img{
+    object-fit: contain;
+    margin-top: -100px;
+    width:600px;
+}

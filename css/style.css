@@ -563,6 +563,7 @@ nav{
 }
 .creditos-titulo{   
     margin: 0;
+     padding: 1em;
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     font-weight: 800;
@@ -575,7 +576,8 @@ nav{
 }
 .creditos-text{
     margin:0;
-    padding: 10px 0;
+    padding-top: 10px;
+    padding-bottom: 40px;
     font-family: "Montserrat";
     font-size: 20px;
     font-weight:600 ;
@@ -651,7 +653,7 @@ nav{
     color: #000;
 }
 .creditos-img{
-    object-fit: contain;
-    margin-top: -100px;
+    margin-bottom: -100px;
+    margin-top: -175px;
     width:50%;
 }
